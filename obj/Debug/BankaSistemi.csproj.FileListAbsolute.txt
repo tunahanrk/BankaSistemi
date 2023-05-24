@@ -1,0 +1,7 @@
+C:\Users\Tunahan\source\repos\BankaSistemi\BankaSistemi\bin\Debug\BankaSistemi.exe.config
+C:\Users\Tunahan\source\repos\BankaSistemi\BankaSistemi\bin\Debug\BankaSistemi.exe
+C:\Users\Tunahan\source\repos\BankaSistemi\BankaSistemi\bin\Debug\BankaSistemi.pdb
+C:\Users\Tunahan\source\repos\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.csproj.AssemblyReference.cache
+C:\Users\Tunahan\source\repos\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.exe
+C:\Users\Tunahan\source\repos\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.pdb
